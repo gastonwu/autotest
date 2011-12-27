@@ -63,4 +63,3 @@ $service = new Mpass_Server($host, $port, new TestPserver);
 $service->run();
 
 //http://192.168.0.136/?path=php%20/tmp/a.php&key=1111
-/
