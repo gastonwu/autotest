@@ -37,7 +37,7 @@ class TestPserver implements Mpass_IExecutor {
 
 		$input = $client->read(1024);
 		// $this->exec($input);
-		usleep(100);
+		//usleep(100);
 
 		// $str = "Hello World! " . microtime(true)
 		// 	            . "<pre>{$input}</pre>";

@@ -1,7 +1,7 @@
 <?php
 
 while(1){
-	
+	usleep(10);
 
 	// create a new cURL resource
 	$ch = curl_init();
